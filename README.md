@@ -7,3 +7,6 @@ NAME: Kokkonda santhosh
 DOMAIN: FRONY END WEB DEVELOPMENT
 DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33ebe053-0b2c-4ee6-a050-3050db021f99" />
